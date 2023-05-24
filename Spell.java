@@ -1,11 +1,4 @@
-/**
- * Spell
- * Spell checker application
- * CS2210
- * Feb 17, 2023
- * @author Vlad Koval
- * @version 1.0
- */
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
